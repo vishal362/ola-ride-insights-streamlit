@@ -54,3 +54,36 @@ The goal of this project is to:
 - Clean and user-friendly interface for data exploration
 - Real-time filtering and insights generation
 
+- ---
+
+## 📂 Project Structure
+
+OLA-Ride-Insights/
+│
+├── streamlitapp.py # Main Streamlit application
+├── requirements.txt # Project dependencies
+├── README.md
+│
+├── data/
+│ └── OLA_July_Cleaned.csv
+│
+├── notebooks/
+│ ├── understandingdata.ipynb
+│ └── streamlitapp.ipynb
+│
+├── sql/
+│ └── SQL query files
+
+
+---
+
+## ▶️ How to Run the Project Locally
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/vishal362/OLA-Ride-Insights.git
+
+2. Install dependencies : pip install -r requirements.txt
+3. Run the Streamlit app : streamlit run streamlitapp.py
+
+
