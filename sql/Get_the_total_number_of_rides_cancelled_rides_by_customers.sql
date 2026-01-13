@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM ola_july_cleaned WHERE Booking_Status = 'Canceled by Customer';
