@@ -11,3 +11,22 @@ The goal of this project is to:
 - Identify peak hours, ride trends, and key operational insights
 - Build an interactive dashboard for easy data exploration
 - Showcase practical data analytics skills for real-world business use cases.
+- 
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Programming & Analysis**
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+
+**Dashboard & Visualization**
+- Streamlit
+
+**Database & Querying**
+- SQL
+
+**Other Tools**
+- Jupyter Notebook
+- GitHub
