@@ -29,7 +29,7 @@ st.write(
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("OLA_July_Cleaned.csv")
+    return pd.read_csv("data/OLA_July_Cleaned.csv")
 
 df = load_data()
 
@@ -328,3 +328,4 @@ st.bar_chart(
     x="Type",
     y="Average_Rating"
 )
+
