@@ -40,3 +40,18 @@ The goal of this project is to:
 - Certain pickup locations contribute disproportionately to total ride volume, highlighting key operational hotspots.
 - Ride demand shows clear time-based patterns, which can help in optimizing driver allocation and pricing strategies.
 - Cleaned and structured data enabled efficient analysis and accurate visualization in the dashboard.
+
+- ---
+
+## 🚀 Live Interactive Dashboard
+
+🔗 **Streamlit App Link:**  
+🔗 **Streamlit App Link:**  
+[Click here to view the live dashboard](https://ola-ride-insights-app-esrepjbqetxeee36hfp68g.streamlit.app/)
+
+### Dashboard Features
+- Interactive visualizations for ride demand and trends
+- Time-based analysis of peak and non-peak hours
+- Clean and user-friendly interface for data exploration
+- Real-time filtering and insights generation
+
