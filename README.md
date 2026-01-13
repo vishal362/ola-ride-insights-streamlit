@@ -30,3 +30,13 @@ The goal of this project is to:
 **Other Tools**
 - Jupyter Notebook
 - GitHub
+
+---
+
+## 📊 Key Business Insights
+
+- Peak ride demand is observed during morning and evening office hours, indicating strong commuter usage patterns.
+- Weekends show higher average ride durations compared to weekdays, suggesting more leisure-oriented trips.
+- Certain pickup locations contribute disproportionately to total ride volume, highlighting key operational hotspots.
+- Ride demand shows clear time-based patterns, which can help in optimizing driver allocation and pricing strategies.
+- Cleaned and structured data enabled efficient analysis and accurate visualization in the dashboard.
