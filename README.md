@@ -44,8 +44,7 @@ The goal of this project is to:
 - ---
 
 ## 🚀 Live Interactive Dashboard
-
-🔗 **Streamlit App Link:**  
+ 
 🔗 **Streamlit App Link:**  
 [Click here to view the live dashboard](https://ola-ride-insights-app-esrepjbqetxeee36hfp68g.streamlit.app/)
 
